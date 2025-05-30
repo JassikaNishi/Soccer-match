@@ -3,13 +3,13 @@
 A React + Express project to display upcoming soccer matches using football-data.org API.
 
 ### Run Backend
-```bash
+``bash
 cd server
 npm install
 node index.js
 
 ### Run Frontend
-``` bash
+`` bash
 Copy
 Edit
 cd client
