@@ -13,4 +13,6 @@ npm install
 npm start
 
 ![image](https://github.com/user-attachments/assets/4cca48b5-9944-404b-be7c-0cf798cfdb93)
-![image](https://github.com/user-attachments/assets/45ea12a8-3bb4-4293-bbe8-993b36e0e8d5)
+More details
+![image](https://github.com/user-attachments/assets/c1e2324b-2b31-4a0b-82be-399be6e253fb)
+
