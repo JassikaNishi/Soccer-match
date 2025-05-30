@@ -1,0 +1,63 @@
+.page-container {
+  padding: 40px;
+  background: #f5f5f5;
+  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #222;
+  margin-bottom: 30px;
+}
+
+.match-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+.match-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+}
+
+.teams {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.teams span {
+  color: #888;
+}
+
+.match-date,
+.match-competition,
+.match-status,
+.match-group,
+.match-stage {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 5px 0;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 1.2rem;
+  color: #555;
+}
+.match-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.match-card a {
+  text-decoration: none;
+  color: inherit;
+}
